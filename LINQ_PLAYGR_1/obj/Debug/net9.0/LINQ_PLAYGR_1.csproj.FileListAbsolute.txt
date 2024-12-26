@@ -1,0 +1,14 @@
+/Users/jonathan/RiderProjects/LINQ_PLAYGROUND/LINQ_PLAYGR_1/bin/Debug/net9.0/LINQ_PLAYGR_1
+/Users/jonathan/RiderProjects/LINQ_PLAYGROUND/LINQ_PLAYGR_1/bin/Debug/net9.0/LINQ_PLAYGR_1.deps.json
+/Users/jonathan/RiderProjects/LINQ_PLAYGROUND/LINQ_PLAYGR_1/bin/Debug/net9.0/LINQ_PLAYGR_1.runtimeconfig.json
+/Users/jonathan/RiderProjects/LINQ_PLAYGROUND/LINQ_PLAYGR_1/bin/Debug/net9.0/LINQ_PLAYGR_1.dll
+/Users/jonathan/RiderProjects/LINQ_PLAYGROUND/LINQ_PLAYGR_1/bin/Debug/net9.0/LINQ_PLAYGR_1.pdb
+/Users/jonathan/RiderProjects/LINQ_PLAYGROUND/LINQ_PLAYGR_1/obj/Debug/net9.0/LINQ_PLAYGR_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathan/RiderProjects/LINQ_PLAYGROUND/LINQ_PLAYGR_1/obj/Debug/net9.0/LINQ_PLAYGR_1.AssemblyInfoInputs.cache
+/Users/jonathan/RiderProjects/LINQ_PLAYGROUND/LINQ_PLAYGR_1/obj/Debug/net9.0/LINQ_PLAYGR_1.AssemblyInfo.cs
+/Users/jonathan/RiderProjects/LINQ_PLAYGROUND/LINQ_PLAYGR_1/obj/Debug/net9.0/LINQ_PLAYGR_1.csproj.CoreCompileInputs.cache
+/Users/jonathan/RiderProjects/LINQ_PLAYGROUND/LINQ_PLAYGR_1/obj/Debug/net9.0/LINQ_PLAYGR_1.dll
+/Users/jonathan/RiderProjects/LINQ_PLAYGROUND/LINQ_PLAYGR_1/obj/Debug/net9.0/refint/LINQ_PLAYGR_1.dll
+/Users/jonathan/RiderProjects/LINQ_PLAYGROUND/LINQ_PLAYGR_1/obj/Debug/net9.0/LINQ_PLAYGR_1.pdb
+/Users/jonathan/RiderProjects/LINQ_PLAYGROUND/LINQ_PLAYGR_1/obj/Debug/net9.0/LINQ_PLAYGR_1.genruntimeconfig.cache
+/Users/jonathan/RiderProjects/LINQ_PLAYGROUND/LINQ_PLAYGR_1/obj/Debug/net9.0/ref/LINQ_PLAYGR_1.dll
